@@ -74,10 +74,10 @@
         position: relative;
         top: 5em;
         flex-flow: wrap;
-        left: -12em;
+        left: -5em;
     }
     .svg-images {
-        margin-left: 20em;
+        margin-left: 23em;
         margin-top: 3em;
     }
     img.happy {
@@ -91,7 +91,7 @@
         margin-top: 15em;
         justify-content: space-evenly;
         flex-flow: column-reverse;
-        margin-left: 15em;
+        margin-left: 21em;
     }
     .macbook {
         opacity: 1;
@@ -265,7 +265,7 @@
         font-family: cursive;
     }
     .phone-pic:hover .overbay {
-        width: 115%;
+        width: 137%;
         left: -5em;
     }
     .texters {
@@ -376,10 +376,10 @@
         position: relative;
         top: 5em;
         flex-flow: wrap;
-        left: -12em;
+        left: -5em;
     }
     .svg-images {
-        margin-left: 20em;
+        margin-left: 23em;
         margin-top: 3em;
     }
     img.happy {
@@ -397,7 +397,7 @@
         margin-top: 15em;
         justify-content: space-evenly;
         flex-flow: column-reverse;
-        margin-left: 15em;
+        margin-left: 21em;
     }
     .macbook {
         opacity: 1;
@@ -571,7 +571,7 @@
         font-family: cursive;
     }
     .phone-pic:hover .overbay {
-        width: 115%;
+        width: 137%;
         left: -5em;
     }
     .texters {
